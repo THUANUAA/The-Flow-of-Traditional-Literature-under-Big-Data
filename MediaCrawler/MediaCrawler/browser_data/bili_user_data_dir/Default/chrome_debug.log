@@ -1,0 +1,4 @@
+[0430/143416.488:INFO:CONSOLE(57)] "document.domain mutation is ignored because the surrounding agent cluster is origin-keyed.", source: https://s1.hdslb.com/bfs/static/laputa-home/client/assets/vendor.6e0e8550.js (57)
+[0430/143416.981:INFO:CONSOLE(1)] "%c%s line-height: 30px; color: #FF6699 bili-fe-mirror:1.6.6", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (1)
+[0430/143416.983:INFO:CONSOLE(169)] "白屏检测是否正常 [object Object]", source: https://www.bilibili.com/ (169)
+[0430/143417.245:INFO:CONSOLE(25)] "获取webApp开关状态失败 [object Object]", source: https://s1.hdslb.com/bfs/static/laputa-home/client/assets/index.2fbb75b2.js (25)
